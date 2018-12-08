@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="btn_start">Start new quiz</string>
+    <string name="txtCapitalOf">What is the capital of %s?</string>
+    <string name="capitalPlaceHolder">Capital</string>
+
+    <string-array name="spinnerCountries">
+        <item>All</item>
+        <item>Africa</item>
+        <item>America</item>
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>Europe</item>
+    </string-array>
+
+</resources>
